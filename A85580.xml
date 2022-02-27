@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Great and wonderful victory obtained by the English forces, under the command of General Pen, and Gen. Venables, against the French, and others, in the West Indies: with the manner of a great sudden, and valiant engagement, the desperate onset given by the indian bow-men, the bringing up of the great reserves by the French general, the totall routing of them all immediatly upon landing, the taking of 2[6]00 prisoners, and the number slain upon the place, the taking of three and thirty gold and silver mines, and the firing of many places by the French, and sacrificing of their lives in the flames.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85580</idno>
+            <idno type="STC">Wing G1661</idno>
+            <idno type="STC">Thomason E831_2</idno>
+            <idno type="STC">ESTC R207459</idno>
+            <idno type="EEBO-CITATION">99866508</idno>
+            <idno type="PROQUEST">99866508</idno>
+            <idno type="VID">118784</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85580)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118784)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 126:E831[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Great and wonderful victory obtained by the English forces, under the command of General Pen, and Gen. Venables, against the French, and others, in the West Indies: with the manner of a great sudden, and valiant engagement, the desperate onset given by the indian bow-men, the bringing up of the great reserves by the French general, the totall routing of them all immediatly upon landing, the taking of 2[6]00 prisoners, and the number slain upon the place, the taking of three and thirty gold and silver mines, and the firing of many places by the French, and sacrificing of their lives in the flames.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Humphrey Hutchingson,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In title second number in total of person captured is illegible.</note>
+                  <note>Annotation on Thomason copy: "Aprill 3.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Penn, William, --  Sir, 1621-1670 --  Early works to 1800.</term>
+               <term>Venables, Robert, 1612?-1687 --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118784:1" rendition="simple:additions"/>
+            <p>A great and wonderful VICTORY <hi>OBTAINED</hi> By the Engliſh Forces, under the Command of General Pen, and Gen. Venables, againſt the French, and others, in the Weſt Indies: With the manner of this great, ſudden, and valiant Engagement, the deſperate Onſet given by the Indian Bow-men, the bringing up of the great Reſerves by the French General, the totall routing of them all immediatly upon landing, the taking of 2600 priſoners, and the number ſlain upon the place, the taking of three and thirty Gold and Silver <hi>Mines,</hi> and the firing of many places by the French, and ſacrificing of their lives in the flames.</p>
+            <figure>
+               <figDesc>a sea battle, with ships in full sail</figDesc>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed for <hi>Humphrey Hutchingſon,</hi> 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:118784:2"/>
+            <pb n="3" facs="tcp:118784:2"/>
+            <head>A great and wonderful Victory obtain<g ref="char:EOLhyphen"/>ed by the Engliſh horſe and foot, un<g ref="char:EOLhyphen"/>der the command of Gen. Venables, in the Weſt Indies: With the manner how they landed in the French Con<g ref="char:EOLhyphen"/>tinents, the oppoſition made by the Natives, and others, with their Ar<g ref="char:EOLhyphen"/>rows, and the taking of moſt of their Gold and Silver Mines.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Y an Expreſs brought from the Barba<g ref="char:EOLhyphen"/>does to VVhite-Hall, by a Merchant<g ref="char:EOLhyphen"/>man, we underſtand, That Gen. Pen and Gen Venables, having been there with the Fleet, conſiſting of 35 gallant ſhips, after few dayes, being ſupplyed with 2000 foot, and 700 horſe, with all other Neceſſaries and Furniture of
+<pb n="4" facs="tcp:118784:3"/>war, a general Councel were called aboard the George, where the Officers unanimouſly reſolv<g ref="char:EOLhyphen"/>ed to weigh Anchor, and by the Aſſiſtance of the Almighty, to proſecute the deſign in hand, ac<g ref="char:EOLhyphen"/>cording to the Commiſſion and Inſtructions of his Highneſs the Lord Protector. In purſuance whereof, Major Gen. Haines with his Squadron, was the firſt that hoyſted ſayl, and lanched forth amongſt the cur<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed Waves; and then immediat<g ref="char:EOLhyphen"/>ly Valiant Pen, with Gen. Venables, and the reſt of the Fleet bare up after them; bending their courſe towards the Cariby I ſlands; where, at the coming up of the Flag-ſhips, the whole Navy had a Rendevouz: And from thence (if Report ſp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aks truth) to another part of the Weſtern In<g ref="char:EOLhyphen"/>dies, where the French were as rich as potent, and by their extream predominancy, lamentably over awed the Engliſh; keeping them onely as meer vaſſals and ſlaves, to ſerve their inſatiable wils: but upon the neer approach of Englands ſtately Ar<g ref="char:EOLhyphen"/>mado, great was the Allarm throughout thoſe I<g ref="char:EOLhyphen"/>ſl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nds, and many were ſtruck with ſuch a pannick fear, eſpecially the Natives, that they leſt many rich Commodities and goods behind them, en<g ref="char:EOLhyphen"/>deavouring to fly further up into the Countries;
+<pb n="5" facs="tcp:118784:3"/>but the Monſieurs remanded them back again by ſo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce, cauſing them to imbody with ſundry darts, and ſaying, they would make them da<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ken the Sky with Arrows: And ſo drawing them up in a warlike poſture, planted them and the Engliſh, (under Command of their own Officers) at the moſt eminent and dangerous Paſſes. This being done, the French Governour brought up his Re<g ref="char:EOLhyphen"/>ſerves, and reſolved to make opp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſition, but the two Generals diſcharging ſome great Guns, and afterwards manning out their men ſo ſaſt in long boats, that they ſoon forced their paſſage upon Land, in which heroick A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>chievment, the Volun<g ref="char:EOLhyphen"/>teers (formerly Commanders and Gentlemen of Fortune in the late K<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngs Army) performed ſin<g ref="char:EOLhyphen"/>gular ſervice, ſhewing abundance of gallantry, and magnanimity of ſpirit in the very thickeſt of acti<g ref="char:EOLhyphen"/>on. And, indeed, though they are ſaid to be but four hundred, yet thus much (to the honour of Engliſh-men) may be ſaid, that their Gallantry (in ſome reſpect) extended as farre, as the Noble Acts of Chivalry of thoſe four thouſand ſouldi<g ref="char:EOLhyphen"/>ers at Numantia in Spain, who withſtood forty thouſand Romanes for fourteen years together, in which time having often valiantly repulſed them,
+<pb n="6" facs="tcp:118784:4"/>and forced them unto two diſhonorable compoſi<g ref="char:EOLhyphen"/>tions; at laſt when they could well hold out no longer, they gathered all their Armour, Money, and Goods together, and laid them on a heap; which being fired, they voluntarily buried them<g ref="char:EOLhyphen"/>ſelves in the flames thereof, leaving unto Scipio nothing but the bare name of Numantia to adorn his tryumph with. In like manner, the fame of this ſtory (by way of circumſtance) ſaith, That ſome of the Monſieus, having exceedingly in<g ref="char:EOLhyphen"/>riched themſelves choſe rather to fire their Poſſeſ<g ref="char:EOLhyphen"/>ſions, and ſacrifice their lives in the flames thereof, then yield and ſubmit to a ſtranger; but the ma<g ref="char:EOLhyphen"/>jor part conceiving it no way poſſible to with<g ref="char:EOLhyphen"/>ſtand ſo reſolved an enemy, caſt down their arms and cryed for mercy. During which diſpute, ma<g ref="char:EOLhyphen"/>ny were killed and wounded (by eſtimation 300, but the number not certainly known) and two or three thouſand taken priſoners; (of all ſorts and ſexes) beſides, it is ſaid, that the Engliſh are be<g ref="char:EOLhyphen"/>come Maſters of no leſs then three and thirty gold and ſilver Mines; which, if true, will doubtleſſe make our Engliſh Continent the moſt flouriſh<g ref="char:EOLhyphen"/>ing Common-wealth under the Sun, and eternize their never-dying-ſame throughout all Ages.</p>
+            <pb n="7" facs="tcp:118784:4"/>
+            <p>And further it is ſaid, that they have made ſo great an inroad into the Countrey, for the ſpace of twenty or thirty miles, that not an enemy dare not ſo much as peep or ſhew his head in any ho<g ref="char:EOLhyphen"/>ſtile manner. And by the tender reſpect, affability and clemency of the Engliſh towards the poor Natives, ſo great Effects have taken influence thereupon, that they are even ſenſible of their pre<g ref="char:EOLhyphen"/>ſent condition of Freedom, and ſo tractable, that upon the leaſt motion or ſign, they become ſer<g ref="char:EOLhyphen"/>viceable in any thing. But of this, and other par<g ref="char:EOLhyphen"/>ticulars, a Confirmation is ſuddenly expected, in caſe any thing hath occur'd of Action, which no way yet ſeems unprobable, though in this jun<g ref="char:EOLhyphen"/>cture of time preſented ſomewhat dubious; by reaſon I had rather pre-ſuppoſe the event of mo<g ref="char:EOLhyphen"/>tionary action, then incur the diſpleaſure of any by way of deteſtation.</p>
+            <pb n="8" facs="tcp:118784:5"/>
+            <p>His Highneſs the Lord Protector, with the ad<g ref="char:EOLhyphen"/>vice of the Council, having taken into their gra<g ref="char:EOLhyphen"/>cious and ſerious conſideration, the preſent eſtate and condition of the Sea and Land-forces, under toe command of Gen. Pen, and Gen. Venables, have Ordered and Appointed, that a conſiderable num<g ref="char:EOLhyphen"/>ber of ſhips be forthwith expedited for the ſaid ſer<g ref="char:EOLhyphen"/>vice, with ſuch provisions and Neceſſaries as ſhall be conceived requisite: And accordingly Nine ſhips are now ready to be ſet forth, viz. The Hen<g ref="char:EOLhyphen"/>ry, the Maiden-head, and ſeven others, with Biſ<g ref="char:EOLhyphen"/>kets, Cheeſe, Butter, Beer, Beef, Pork, Peaſe, and di<g ref="char:EOLhyphen"/>vers other Neceſſaries: A proſperous Gale at<g ref="char:EOLhyphen"/>tend them.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
